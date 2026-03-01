@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-de/21.0/offline/ni-software-platform-bundle-de_21.0.0.49152-0+f0_offline.iso 
-ni-software-platform-bundle-de_21.0.0.49152-0+f0_offline.iso
-3e59a4c80a6de03b2a60d6b9f3071c82
-21.0.0.49152.x64.de-DE
-Software Platform Bundle 2021 Q3 64bit German
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-ja/20.6/offline/ni-software-platform-bundle-ja_20.6.0.49153-0+f1_offline.iso 
+ni-software-platform-bundle-ja_20.6.0.49153-0+f1_offline.iso
+a373d433ce88b1d7b718750017b59e75
+20.6.0.49153.x64.ja-JP
+Software Platform Bundle 2021 Q1 64bit Japanese
 NI.SPB
